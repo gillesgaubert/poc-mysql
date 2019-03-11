@@ -1,0 +1,13 @@
+{
+    "name": "poc-dbconnect",
+    "version": "0.1.0",
+    "dependencies": {
+        "ejs": "~2.5.5",
+        "express": "~4.16.4",
+        "socket.io": "~2.2.0",
+        "ent": "~0.1.0",
+        "mysql": "~2.16.0"
+    },
+    "author": "gilles",
+    "description": "poc connexion database"
+}
