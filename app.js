@@ -27,7 +27,7 @@ io.sockets.on('connection', function (socket,params) {
         var conn = mysql.createConnection({
             host: 'localhost',
             user: 'root',
-            password: 'denti2603',
+            password: 'motdepasse',
             database: 'db_poc'
         });
         conn.connect(function(error) {
